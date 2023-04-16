@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kouhai1
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning HTML,CSS,JS,Python,C
+- 🌱 I’m currently learning HTML,CSS,JS,Python,C, and lua
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me is on discord spookhai#0885
 
